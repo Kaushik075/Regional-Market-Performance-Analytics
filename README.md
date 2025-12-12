@@ -2,7 +2,7 @@
 
 ---
 
-<img width="1480" height="894" alt="Image" src="https://github.com/user-attachments/assets/3b7e805a-761f-48c3-9015-05a9f5e17639" />
+<img width="1480" height="894" alt="Image" src="https://github.com/user-attachments/assets/4494ffca-4742-481d-b967-1cc23b2aa6a6" />
 
 
 Executive Summary
