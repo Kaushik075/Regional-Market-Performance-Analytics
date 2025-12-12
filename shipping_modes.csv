@@ -1,0 +1,6 @@
+ShippingModeID,ShippingMode,BaseRate,DeliveryDays,ServiceLevel,CarrierName,IsExpedited,MaxWeight
+SHP001,Standard,30,5,Basic,IndiaPost,FALSE,20
+SHP002,Express,75,2,Premium,BlueDart,TRUE,15
+SHP003,Same-Day,120,0,Express+,Delhivery,TRUE,10
+SHP004,Economy,20,7,LowCost,EcomExpress,FALSE,25
+SHP005,Overnight,95,1,FastTrack,DTDC,TRUE,12
